@@ -1,0 +1,19 @@
+{
+  "name": "express-coursera",
+  "version": "1.0.0",
+  "description": "express project to return a word and its description",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Puff",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongo": "^0.1.0",
+    "mongod": "^2.0.0",
+    "mongoose": "^6.3.5",
+    "nodemon": "^2.0.16",
+    "sudo": "^1.0.3"
+  }
+}
